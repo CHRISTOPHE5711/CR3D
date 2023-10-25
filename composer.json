@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "symfony/maker-bundle": "^1.51"
+    },
+    "require": {
+        "twig/intl-extra": "^3.7",
+        "cocur/slugify": "^4.5"
+    }
+}

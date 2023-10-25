@@ -1,0 +1,7 @@
+1- Pour se connecter au site, télécharger Winamp par exemple , istaller PHP version 8++ .Ensuite aller sur PhpMyAdmin dans winamp (id=root mp=admin)
+
+2- Y importer la base de donnée app SQL .
+
+3- Installer un éditeur de code ou par GitBash si gitHub installé ou par un terminal de commande type Power Shell entrer les commandes : symfony server:stop  puis symfony server:start -d
+
+4- Ensuite dans l'URL entrer https://127.0.0.1:8000/

@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 6c1a17d2fa92e23c2bc94d1c6cf4da07b4979f1c Christophe RICHARD <contact@christophe-richard.com> 1697831316 +0200	commit (initial): first commit
+6c1a17d2fa92e23c2bc94d1c6cf4da07b4979f1c 0000000000000000000000000000000000000000 Christophe RICHARD <contact@christophe-richard.com> 1697831328 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 6c1a17d2fa92e23c2bc94d1c6cf4da07b4979f1c Christophe RICHARD <contact@christophe-richard.com> 1697831328 +0200	Branch: renamed refs/heads/master to refs/heads/main
+6c1a17d2fa92e23c2bc94d1c6cf4da07b4979f1c c3b2fad5877ae43c1bbc970102261265d701e042 Christophe RICHARD <contact@christophe-richard.com> 1697832224 +0200	commit: second commit
+c3b2fad5877ae43c1bbc970102261265d701e042 0000000000000000000000000000000000000000 Christophe RICHARD <contact@christophe-richard.com> 1697832236 +0200	Branch: renamed refs/heads/main to refs/heads/main
+c3b2fad5877ae43c1bbc970102261265d701e042 c3b2fad5877ae43c1bbc970102261265d701e042 Christophe RICHARD <contact@christophe-richard.com> 1697832236 +0200	Branch: renamed refs/heads/main to refs/heads/main
+c3b2fad5877ae43c1bbc970102261265d701e042 771e805972a434dc111cb7b942f60802eb4631b2 Christophe RICHARD <contact@christophe-richard.com> 1697845900 +0200	commit: third commit
+771e805972a434dc111cb7b942f60802eb4631b2 9f983585a61b9daba511a27af2fecc53fe5dfd39 Christophe RICHARD <contact@christophe-richard.com> 1698046175 +0200	commit: first commit
